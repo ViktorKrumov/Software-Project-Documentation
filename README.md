@@ -54,45 +54,48 @@ This section provides an overview of the various pages in the application and th
 - [Edit Album](#edit-album)
 - [Delete Album](#delete-album)
 
-### Home {#home}
+### Home <a name = "home"></a>
 
 The Home Page is accessible to all users without any specific permissions.
 
-### Dashboard {#dashboard}
+<img src="https://github.com/ViktorKrumov/Software-Project-Documentation/assets/80381396/2708d4cf-8d3d-4dd5-9503-3add8b96d488" alt="image" width="300">
+
+
+### Dashboard <a name = "dashboard"></a>
 
 The Dashboard provides an overview of user-related information.
+
+<img src="https://github.com/ViktorKrumov/Software-Project-Documentation/assets/80381396/a086c397-c9b7-4838-b751-ef1aee70a5c9" alt="image" width="300">
+
 
 ### Details <a name = "details"></a>
 
 The Details page displays additional information about the application.
 
-### Login {#login}
+<img src="https://github.com/ViktorKrumov/Software-Project-Documentation/assets/80381396/b8cf5458-dd88-4947-b53e-ea6be45accbf" alt="image" width="300">
+
+
+### Login <a name = "login"></a>
 
 The Login page allows users to authenticate and access their accounts.
 
-### Register {#register}
+<img src="https://github.com/ViktorKrumov/Software-Project-Documentation/assets/80381396/a9022434-0af8-4ff2-bdea-52986484cb3e" alt="image" width="300">
+
+
+### Register <a name = "register"></a>
 
 The Register page allows users to create new accounts.
 
-### Dashboard (Authenticated) {#dashboard-authenticated}
+<img src="https://github.com/ViktorKrumov/Software-Project-Documentation/assets/80381396/0bf211f2-0537-4bf4-b945-a5fc19dd4eff" alt="image" width="300">
 
-The Dashboard provides an overview of user-related information for authenticated users.
 
-### Add Album {#add-album}
+### Add Album <a name = "add-album"></a>
 
 The Add Album page allows authenticated users to add a new album, providing details such as Singer/Band, Album Name, Image URL, Release Date, Label, and Sales.
 
-### Album Details {#album-details}
+<img src="https://github.com/ViktorKrumov/Software-Project-Documentation/assets/80381396/30cd1a56-3683-44d4-9816-2221a3e6033e" alt="image" width="300">
 
-The Album Details page displays detailed information about a specific album.
 
-### Edit Album {#edit-album}
-
-The Edit Album page allows authenticated users to edit album details, but only if they are the owner of the album.
-
-### Delete Album {#delete-album}
-
-The Delete Album page allows authenticated users to delete albums, but only if they are the owner of the album.
 
 
 
