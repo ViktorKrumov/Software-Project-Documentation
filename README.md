@@ -62,7 +62,7 @@ The Home Page is accessible to all users without any specific permissions.
 
 The Dashboard provides an overview of user-related information.
 
-### Details {#details}
+### Details <a name = "details"></a>
 
 The Details page displays additional information about the application.
 
